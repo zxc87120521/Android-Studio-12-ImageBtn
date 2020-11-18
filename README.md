@@ -1,2 +1,1 @@
-# Android-Studio-12-ImageBtn
- 
+這是一個項目，單擊圖片會切換到另一張圖片
